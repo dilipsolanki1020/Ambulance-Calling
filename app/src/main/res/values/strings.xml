@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Save The Life</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_driver_map">Map</string>
+</resources>
