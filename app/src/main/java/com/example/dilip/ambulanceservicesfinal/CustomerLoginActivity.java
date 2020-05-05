@@ -65,7 +65,7 @@ public class CustomerLoginActivity extends AppCompatActivity {
                 });
             }
         });
-
+//lister
         klogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
